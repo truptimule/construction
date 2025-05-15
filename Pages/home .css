@@ -1,0 +1,27 @@
+.navbar{
+     border: 1px solid;
+    width:100%;
+    height: 70px;
+    background-color: rgb(243, 221, 159);
+    color: white;
+    position: fixed;
+    
+}
+
+.nav{
+    font-size: 20px;
+    word-spacing: 40px;
+    /* margin-left: 10px; */
+    text-align: end;
+    margin-right: 50px;
+    margin-top: 20px;
+    /* color: white; */
+}
+.n1{
+    color:black;
+    cursor: pointer;
+}
+.n1:hover{
+    transform: 1s;
+    color: blueviolet;
+}
